@@ -2,8 +2,6 @@
 
 See https://github.com/jmattheis/gruvbox-dark-gtk/ for screenshots.
 
-## Install
+## Installation
 
-```bash
-$ git clone https://github.com/jmattheis/gruvbox-dark-icons-gtk ~/.icons/gruvbox-dark-icons-gtk
-```
+Clone or download the repository and move the containing folders to your `~/.icons` directory, or to `/usr/share/icons` (needs root access).
