@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=oomox-gruvbox-dark
-Comment=Papirus icon theme
+Name=Gruvbox-Dark
+Comment=Dark icon theme based on groove color scheme
 Inherits=breeze,gnome,hicolor
 
 Example=folder
